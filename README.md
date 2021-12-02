@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm rzry</h1>
-<h3 align="center">这是我的主页,如下你能看到关于我的日志,emacs的配置,以及一些go的程序</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rzry&label=Profile%20views&color=0e75b6&style=flat" alt="rzry" /> </p>
 
