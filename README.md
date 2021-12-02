@@ -8,7 +8,6 @@
 
 - 👯 I’m looking to collaborate on [emacs](https://github.com/rzry/emacs-custom)
 
-- 🤝 I’m looking for help with [filecoin-client](https://github.com/rzry/filecoin-client)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
